@@ -98,3 +98,22 @@
   - `cond ? then : else`
 - Nullish Coalescing Operator
   - `??`
+
+## session6
+
+- `switch` statment
+- Array `[]` concepts
+  - creation
+  - Access
+  - manipulation
+  - `Array.isArray()`
+- Array methods
+  - `.length`
+  - `.unshift()`
+  - `.push()`
+  - `.shift()`
+  - `.pop()`
+- Array Search
+  - `.indexOf()`
+  - `.lastIndexOf()`
+  - `.includes()`

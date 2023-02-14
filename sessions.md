@@ -79,3 +79,22 @@
   - includes
   - startWith
   - endWith
+
+## session 5
+
+- `typeof` keyword
+- Comparison Operators
+  - `> , < , >= , <=`
+  - `== , !=`
+  - `=== , !==`
+- Boolean expersions
+- logical operators
+  - NOT `!`
+  - AND `&&`
+  - OR `||`
+- Control flow concepts => conditions, loops and functions
+- `if` conditions
+- Ternary Operator
+  - `cond ? then : else`
+- Nullish Coalescing Operator
+  - `??`

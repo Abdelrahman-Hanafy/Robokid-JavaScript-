@@ -99,7 +99,7 @@
 - Nullish Coalescing Operator
   - `??`
 
-## session6
+## session 6
 
 - `switch` statment
 - Array `[]` concepts
@@ -117,3 +117,16 @@
   - `.indexOf()`
   - `.lastIndexOf()`
   - `.includes()`
+
+## session 7
+
+- Array Sort
+  - `.sort()`
+  - `.reverse()`
+- Array slicing
+  - `.slice()`
+  - `.splice()`
+- Array Joining
+  - `.concat()`
+  - `.join()`
+- `for` loop

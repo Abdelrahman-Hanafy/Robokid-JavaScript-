@@ -130,3 +130,14 @@
   - `.concat()`
   - `.join()`
 - `for` loop
+
+## session 8
+
+- nested loop concept
+- loop control
+  - `break`
+  - `continue`
+  - Labels
+- For-in loop
+- `while` loop
+- `do {...} while` loop

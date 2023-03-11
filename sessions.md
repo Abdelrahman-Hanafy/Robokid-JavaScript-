@@ -136,3 +136,13 @@
 - return values `return`
 - Rest Parameters `(...param)`
 
+## session 10
+
+- Anonymous Function `= function() {}`
+- Arrow Function `() => return`
+- Higher order Functions
+  - `.map()`
+  - `.filter()`
+  - `.reduce()`
+  - `.forEach()`
+  
